@@ -1,0 +1,14 @@
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\Moviework.exe.config
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\Moviework.exe
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\Moviework.pdb
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\source\repos\Moviework\Moviework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.csproj.CopyComplete
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.exe
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.pdb
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.Migrations.CreateMovie.resources
+C:\Users\Teacher\source\repos\Moviework\Moviework\obj\Debug\Moviework.csproj.GenerateResource.cache
